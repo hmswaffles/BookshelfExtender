@@ -14,5 +14,7 @@ Higher resolution photos generally result in better recommendations. Don't take 
 ## Other Details
 BookshelfExtender needs to auto-analyze the photos it is sent in order to make its recommendations. No third parties have access to the photo; nor to any identifiable information.
 
+BookshelfExtender is a project by Evan Warfel, a former data scientist who is now persuing his Ph.D. in personality psychology. 
+
 ## This document will be updated in the coming weeks.
 Note that this service will be intermitten until it is completey set up. It is currently being internally tested.
