@@ -4,7 +4,9 @@ Don't know what to read next? Don't know what to get for a bookish friend or a l
 
 Welcome to BookshelfExtender, an experimental book recommendation service, currently in the process of being spun-up. By texting a photo of your a bookshelf or book pile to a (soon to be provided) phone number, you'll recieve three book recommendations.
 
-Text the word "Books" to (866) 973-5104 to get started. Msg & data rates may apply. 
+There are two ways to get start. A) text the word "Books" to (866) 973-5104 to get started. B) text a photo of your bookcase or bookpile to (866) 973-5104. By texting this number, you are opt-ing in to recieve messages from this number. Msg & data rates may apply.
+
+You could also text a stock-photo of a bookshelf to the number if you wanted. 
 
 ## Tips
 Higher resolution photos generally result in better recommendations. Don't take a photo of your whole bookcase!
