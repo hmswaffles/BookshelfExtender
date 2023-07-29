@@ -6,12 +6,12 @@ Welcome to Bookshelf Extender, an experimental book recommendation service, curr
 
 There are two ways to start. A) text the word "Books" or "BOOKS" to (866) 973-5104 to get started. B) text a photo of your bookcase or bookpile to (866) 973-5104. By texting these numbers, you are opt-ing in to recieve messages from the same number. Msg & data rates may apply.
 
-To opt-out, send "Stop" or "STOP" to the aforementioned phone number. 
+Regulatory compliance requires the following: To opt-out, send "Stop" or "STOP" to the aforementioned phone number
 
 You could also text a stock-photo of a bookshelf to the number if you wanted to test it out!
 
 ## Tips
-Clear, higher resolution photos generally result in better recommendations. Don't take a photo of your whole bookcase!
+Clear, higher resolution photos generally result in better recommendations. Don't take a photo of your whole bookcase.
 
 ## Other Details
 BookshelfExtender needs to auto-analyze the photos it is sent in order to make its recommendations. No third parties have access to the photo; nor to any identifiable information.
