@@ -1,5 +1,9 @@
 # Bookshelf Extender
 
+Note: This project will be deployed and ready to be used in the coming days.  Contact me if you want a demo.
+
+...
+
 Don't know what to read next? Don't know what to get for a bookish friend or a loved-one?
 
 Welcome to Bookshelf Extender, an experimental book recommendation service, currently in the process of being spun-up. By texting a photo of your a bookshelf or book pile to a (866) 973-5104, you'll recieve three book recommendations.
