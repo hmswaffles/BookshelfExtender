@@ -1,14 +1,11 @@
 # Bookshelf Extender
 
-Note: This project will be deployed and ready to be used in the coming days.  Contact me if you want a demo.
-
-...
 
 Don't know what to read next? Don't know what to get for a bookish friend or a loved-one?
 
-Welcome to Bookshelf Extender, an experimental book recommendation service, currently in the process of being spun-up. By texting a photo of your a bookshelf or book pile to a (866) 973-5104, you'll recieve three book recommendations.
+Welcome to Bookshelf Extender, an experimental book recommendation service, currently in the process of being spun-up. By texting a photo of your a bookshelf or book pile to 1 (866) 973-5104, you'll recieve three book recommendations.
 
-There are two ways to start. A) text the word "Books" or "BOOKS" to (866) 973-5104 to get started. B) text a photo of your bookcase or bookpile to (866) 973-5104. By texting these numbers, you are opt-ing in to recieve messages from the same number. Msg & data rates may apply.
+There are two ways to start. A) Text a photo of your bookcase or bookpile to 1 (866) 973-5104. For regulatory reasons, there is also option B, which is to text the word "Books" or "BOOKS" to 1 (866) 973-5104. By texting these numbers, you are opt-ing in to recieve messages from the same number. Msg & data rates may apply.
 
 Regulatory compliance requires the following: To opt-out, send "Stop" or "STOP" to the aforementioned phone number
 
@@ -28,6 +25,3 @@ His twitter page: [www.twitter.com]
 His github page: [https://github.com/hmswaffles]
 His google scholar page: [https://scholar.google.com/citations?user=2_RGjsgAAAAJ&hl=en]
 His much outdated personal website: [https://evanwarfel.com]
-
-## This document will be updated in the coming weeks.
-Note that this service will be intermitten until it is completey set up. It is currently being internally tested.
